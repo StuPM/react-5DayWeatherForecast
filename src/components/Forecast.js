@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import axios from "axios";
-import "../App.css";
+import "../App.scss";
 
 class Forecast extends Component {
   state = { test: "TEST", filteredWeather: [] };

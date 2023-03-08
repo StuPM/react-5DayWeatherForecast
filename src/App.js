@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Forecast from "./components/Forecast";
-import "./App.css";
+import "./App.scss";
 
 class App extends Component {
   state = {};
